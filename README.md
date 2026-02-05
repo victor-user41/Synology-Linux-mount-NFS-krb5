@@ -1,6 +1,9 @@
 # Synology-Linux-mount-NFS-krb5
 Synology Directory Server Kerberos Linux mount NFS krb5
 
+# Guide video for this commands
+https://youtu.be/07kjC15Q0oI
+
 # NFS Setup Guide
 
 Complete guide for setting up NFS between Synology NAS and Linux client.
